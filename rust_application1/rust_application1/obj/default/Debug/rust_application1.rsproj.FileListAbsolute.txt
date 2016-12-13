@@ -1,0 +1,4 @@
+c:\users\jk\documents\visual studio 2013\Projects\rust_application1\rust_application1\obj\default\Debug\rust_application1.rsprojResolveAssemblyReference.cache
+C:\Users\jk\documents\visual studio 2013\Projects\rust_application1\rust_application1\target\Debug\rust_application1.exe
+C:\Users\jk\documents\visual studio 2013\Projects\rust_application1\rust_application1\obj\default\Debug\rust_application1.exe
+C:\Users\jk\documents\visual studio 2013\Projects\rust_application1\rust_application1\target\x86_64-pc-windows-gnu\Debug\rust_application1.exe
